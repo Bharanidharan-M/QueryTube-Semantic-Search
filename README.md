@@ -27,7 +27,7 @@ The live, interactive application is deployed on Hugging Face Spaces. You can ac
 
 ```bash
 
-git clone (https://github.com/manasa-kyatham/QueryTube-Semantic-Search.git)
+git clone 
 
 cd QueryTube-Semantic-Search
 
@@ -58,4 +58,5 @@ Once the dependencies are installed, you can launch the Gradio application:
 python app.py
 ```
 This will start a local web server. Open the URL provided in the terminal (e.g., http://127.0.0.1:7860) in your web browser to use the application.
+
 
