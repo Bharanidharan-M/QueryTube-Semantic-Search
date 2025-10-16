@@ -13,7 +13,7 @@ This project is a complete, end-to-end semantic search application that allows u
 
 The live, interactive application is deployed on Hugging Face Spaces. You can access it here:
 
-**[PASTE YOUR HUGGING FACE LINK HERE]**
+https://huggingface.co/spaces/barani1402/Query_tube
 
 ---
 
@@ -58,5 +58,6 @@ Once the dependencies are installed, you can launch the Gradio application:
 python app.py
 ```
 This will start a local web server. Open the URL provided in the terminal (e.g., http://127.0.0.1:7860) in your web browser to use the application.
+
 
 
